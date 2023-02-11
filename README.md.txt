@@ -1,3 +1,3 @@
 - Criação de layout simples para uma empresa de construção e arquiterura.
 - Foi feito com html e scss.
-- Em breve adicionarei midia queries para responsividade ser mobile.
+- Em breve adicionarei midia queries para responsividade ser adaptada para mobile.
